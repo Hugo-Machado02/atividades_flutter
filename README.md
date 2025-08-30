@@ -1,1 +1,1 @@
-# :rocket: 1º Atividade - Desenvolvimento para Dispositivos Móveis :rocket:
+# :rocket: 1º Atividade - TSI :rocket:
